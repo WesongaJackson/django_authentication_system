@@ -1,0 +1,15 @@
+.navbar{
+    background: #5da5ef !important;
+}
+
+.nav-link{
+color: #2a2727;
+    transition: all ease 2s;
+}
+.nav-link:hover{
+    color: #171616;
+
+}
+.padding{
+    padding-top: 30px;
+}
